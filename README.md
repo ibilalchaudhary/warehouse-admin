@@ -1,1 +1,1 @@
-# warehouse-admin
+# warehouse-client
